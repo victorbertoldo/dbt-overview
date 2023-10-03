@@ -25,4 +25,4 @@ awslocal s3 mb s3://lake-dbt-demo
 
 ### Now lets get our data sources
 
-Clone the Jaffle Shop repository ![here](https://github.com/dbt-labs/jaffle_shop)
+Clone the Jaffle Shop repository [here](https://github.com/dbt-labs/jaffle_shop)
