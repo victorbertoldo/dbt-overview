@@ -25,4 +25,15 @@ awslocal s3 mb s3://lake-dbt-demo
 
 ### Now lets get our data sources
 
-Clone the Jaffle Shop repository [here](https://github.com/dbt-labs/jaffle_shop)
+Clone the Jaffle Shop repository [here](https://github.com/dbt-labs/jaffle_shop), in some sub-folder.
+
+Configure your ``profiles.yml``
+
+### Now let's get duckdb
+
+Create a directory called `db`, go to it and run the command bellow
+
+``` shell
+wget https://github.com/duckdb/duckdb/releases/download/v0.9.0/duckdb_cli-linux-amd64.zip
+```
+
