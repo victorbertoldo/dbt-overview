@@ -3,3 +3,5 @@ dbt-duckdb
 localstack
 awscli
 awscli-local
+fsspec
+s3fs
